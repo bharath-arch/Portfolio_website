@@ -79,3 +79,6 @@ font-size: 18px;
   font-size: large;
   padding: 15px;
 }
+.l_container ol li {
+  font-weight: 900;
+}
